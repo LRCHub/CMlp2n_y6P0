@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "18（feat. Yellow Pato、YZERR）",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-02-17T23:42:19.516168Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "18 (feat. Yellow Pato & YZERR)",
+      "artist": "Bad Hop",
+      "has_synced": true,
+      "path": "select/01_18_(feat._Yellow_Pato_&_YZERR)_Bad_Hop.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "18 (feat. Yellow Pato & YZERR)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_18_(feat._Yellow_Pato_&_YZERR)_BAD_HOP.txt"
+    }
+  ]
+}
